@@ -1,3 +1,7 @@
+![snake animation](https://github.com/EduardoGarcia270402/EduardoGarcia270402/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/EduardoGarcia270402/EduardoGarcia270402/48b7a6cc55f888ab5e441431f9e375eb49fc4bc7/Github%202.png" width="220"/>
 </div>
@@ -24,6 +28,8 @@
 - 🚀 Always learning new technologies  
 
 ---
+<br/>
+<br/>
 
 ## 🛠️ My Skills
 
