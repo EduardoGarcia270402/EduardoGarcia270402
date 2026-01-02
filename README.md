@@ -1,6 +1,7 @@
 <div>
     <div align="center">
-  <img src="https://github.com/EduardoGarcia270402/EduardoGarcia270402/blob/48b7a6cc55f888ab5e441431f9e375eb49fc4bc7/Github%202.png" width="220" style="border-radius:50%;"
+  <img src="https://github.com/EduardoGarcia270402/EduardoGarcia270402/blob/48b7a6cc55f888ab5e441431f9e375eb49fc4bc7/Github%202.png" width="220"
+    style="border-radius:50%;"
   />
 </div>
     <div align=center>
