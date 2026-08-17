@@ -1,19 +1,11 @@
-<div align="center">
-  <img
-    src="./assets/profile/eduardo-terminal-card.png"
-    alt="Eduardo García — Software Engineering Student"
-    width="100%"
-  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardogarcia270402">
+    <img alt="Eduardo García — software engineering, full-stack, mobile and AI" width="880" src="assets/promo/eduardo-terminal.gif" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/EduardoGarcia270402">
-    <img src="https://img.shields.io/badge/GitHub-EduardoGarcia270402-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardogarcia270402">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo_García-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Eduagarcia985@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/EduardoGarcia270402"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
+  <a href="https://www.linkedin.com/in/eduardogarcia270402"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" /></a>
+  <a href="mailto:Eduagarcia985@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
 </p>
